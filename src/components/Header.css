@@ -1,0 +1,17 @@
+.header {
+  background-color: #4e7c7d;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.header .logo {
+  margin-right: 10px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 28px;
+}
